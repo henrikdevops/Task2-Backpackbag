@@ -43,7 +43,7 @@ namespace Task2_Backpackbag
                 }
                 else if (input == 3)
                 {
-                    // item = ""; // Rensa ryggsäcken genom att sätta item till en tom sträng
+                    // Rensa ryggsäcken genom att sätta item till en tom sträng
                     item = ""; 
                 }
                 // Om användaren väljer 4, avsluta programmet

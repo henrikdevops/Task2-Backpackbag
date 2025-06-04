@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2-Backpackbag", "Task2-Backpackbag\Task2-Backpackbag.csproj", "{8D004864-CE32-41B3-A3D2-FCCB39EB4CFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D004864-CE32-41B3-A3D2-FCCB39EB4CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D004864-CE32-41B3-A3D2-FCCB39EB4CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D004864-CE32-41B3-A3D2-FCCB39EB4CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D004864-CE32-41B3-A3D2-FCCB39EB4CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFF2075A-4A8F-4067-9684-54EBEE8D05F8}
+	EndGlobalSection
+EndGlobal

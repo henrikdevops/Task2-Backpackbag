@@ -44,7 +44,7 @@ namespace Task2_Backpackbag
                 else if (input == 3)
                 {
                     // item = ""; // Rensa ryggsäcken genom att sätta item till en tom sträng
-                    item )= ""; 
+                    item = ""; 
                 }
                 // Om användaren väljer 4, avsluta programmet
                 else if (input == 4)

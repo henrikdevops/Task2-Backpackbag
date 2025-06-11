@@ -41,11 +41,6 @@ namespace Task2_Backpackbag
                     item = ""; 
                     Console.WriteLine("Ryggsäcken har rensats.");
                 }
-                else if (input == 3)
-                {
-                    // Rensa ryggsäcken genom att sätta item till en tom sträng
-                    item = ""; 
-                }
                 // Om användaren väljer 4, avsluta programmet
                 else if (input == 4)
                 {
